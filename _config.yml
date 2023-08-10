@@ -1,11 +1,13 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Dgebe Nicolas # your name (or website title) here
+logo: "/images/IMG-20230222-WA0014.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  I hold a BA in Statistics from McGill University and am passionate about NLP models, particularly in Sentimental Analysis of textual data.
   <br><br>
-  Second description 
+  With proficiency in Python, SQL, R, TensorFlow, and more, I have explored data science through personal projects and am planning to pursue the IBM Data Science Certificate Program to deepen my knowledge and skills in predictive modeling of financial data.
+
+ 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/dgebe-nicolas-b9040a180/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
