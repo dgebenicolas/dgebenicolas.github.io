@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Analyze Hepatitis and Diabetic Retinopathy Datasets: K-Nearest Neighbors and Decision Trees for Classification](/sample_page)
-<img src="combined_plots1.png"/>
+<center><img src="combined_plots1.png"/></center>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
