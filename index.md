@@ -4,32 +4,29 @@
 
 ### Category Name 1 
 
-[Analyze Hepatitis and Diabetic Retinopathy Datasets: K-Nearest Neighbors and Decision Trees for Classification](/sample_page)
-<center><img src="images/combined_plots1.png"/></center>
+### Predict Department-Wide Sales at Walmart with Advanced Regression Models
+
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/dgebenicolas/Walmart-Stores-Sales-Predictions/blob/main/Walmart_Sales_Forecasting.ipynb)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/dgebenicolas/Walmart-Stores-Sales-Predictions)
+
+<center><img src="images/combined_plots6.png"/></center>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### Performance Analysis of MLP and CNN on Fashion MNIST: A Study in Neural Network Optimization
+<center><img src="images/combined_plotsNN.png"/></center>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+#### Comparative Analysis of Logistic Regression and K-Nearest Neighbors on IMBD Movie Reviews and 20-News-Group Dataset: Binary and Multi-Class Classification
+<center><img src="images/combined_plots3.png"/></center>
 
 ---
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
+### Analyze Hepatitis and Diabetic Retinopathy Datasets: K-Nearest Neighbors and Decision Trees for Classification
+<center><img src="images/combined_plots2.png"/></center>
 ---
 
 
 
 
+
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+
