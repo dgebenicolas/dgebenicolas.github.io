@@ -33,6 +33,8 @@
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/COMP551_A2-4.html)
 [![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/551reportA2.pdf)
 
+<b>Please refer to the pdf for a comprehensive breakdown of the project</b>
+
 <div style="text-align: justify">In this study, logistic regression and multi-class regression models were implemented from scratch to test against K-Nearest Neighbors (KNN) in binary and multi-class classification tasks. Experiments on IMBD movie reviews and the 20-news-group dataset demonstrated that logistic and multi-class regression significantly outperformed KNN. For binary classification, logistic regression achieved an AUROC of 0.8779 compared to KNN's 0.6343, and for multi-class classification, the accuracy was 74.80% versus KNN's 46.12%. The results suggest further exploration with regularization and advanced optimization techniques.</div>
 
 <br>
@@ -44,6 +46,8 @@
 ### Analyze Hepatitis and Diabetic Retinopathy Datasets: K-Nearest Neighbors and Decision Trees for Classification
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/COMP551_A1.html)
 [![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/551reportA1.pdf)
+
+<b>Please refer to the pdf for a comprehensive breakdown of the project</b>
 
 <div style="text-align: justify">In this hands-on project, we dug deep into the world of medical diagnostics, pitting K-Nearest Neighbors (KNN) against Decision Trees (DT) on Hepatitis and Diabetic Retinopathy Debrecen datasets. By experimenting with various hyperparameters and distance functions, we sharpened our tools to achieve impressive accuracies—88.89% for KNN and 85.2% for DT on the Hepatitis dataset. The results reveal not only the power of these machine learning techniques but also the nuanced decisions involved in optimizing performance. Whether it's the choice of distance function for KNN or the cost function for DT, this analysis demonstrates the craftsmanship required to excel in machine learning.</div>
 
