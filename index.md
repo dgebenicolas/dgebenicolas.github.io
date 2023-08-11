@@ -45,7 +45,7 @@
 
 ### Analyze Hepatitis and Diabetic Retinopathy Datasets: K-Nearest Neighbors and Decision Trees for Classification
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/COMP551_A1.html)
-[![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/551reportA1.pdf)
+[![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/551report_A1.pdf)
 
 <b>Please refer to the pdf for a comprehensive breakdown of the project</b>
 
