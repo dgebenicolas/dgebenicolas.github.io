@@ -20,7 +20,7 @@
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/COMP551_A3.html)
 [![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/551reportA3.pdf)
 
-refer to the pdf to get a comprehensive understanding of the project
+<b>Please refer to the pdf for a comprehensive breakdown of the project</b>
 
 <div style="text-align: justify">The exploration of Multilayer Perceptron Models (MLP) and Convolutional Neural Networks (CNN) for image classification is central to the advancement of neural network efficiency. In this notebook, I'll leverage various architectures of MLP, including varying hidden layers, activation functions, and L2 regularization, to analyze their performance on the Fashion MNIST dataset. I will also introduce a CNN model for comparison. A series of experiments lead to the identification of an optimized MLP architecture that closely approaches the accuracy of the CNN model. The importance of preprocessing, correct activation functions, and avoiding overfitting were also highlighted, culminating in insights that can serve as a valuable foundation for further research and development in the field of neural networks.</div>
 <br>
