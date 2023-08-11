@@ -1,8 +1,8 @@
-## Portfolio
+# Portfolio
 
 ---
 
-### Category Name 1 
+
 
 ### Predict Department-Wide Sales at Walmart with Advanced Regression Models
 
