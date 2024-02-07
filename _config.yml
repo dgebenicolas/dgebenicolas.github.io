@@ -4,15 +4,15 @@ logo: "/images/logo.png?raw=true" # your photo (or logo) here
 
 description:  # your text below (remove <br> elements if you don't need line breaks)
     <p align="center">
-    <a href="pdf/resume.pdf">Resume</a> |
+    <a href="pdf/resume.docx.pdf">Resume</a> |
     <a href="https://www.linkedin.com/in/dgebe-nicolas-b9040a180/">LinkedIn</a> |
     <a href="https://github.com/dgebenicolas">GitHub</a>
     </p>
 
   <p align="justify">
-  I hold a BA in Statistics from McGill University and am passionate about NLP models, particularly in Sentimental Analysis of textual data.
+  I hold a BA in Statistics from McGill University and am passionate about Machine Learning, particularly using advanced regression models to make predictions.
   <br><br>
-  With proficiency in Python, SQL, R, TensorFlow, and more, I have explored data science through personal projects and am planning to pursue the IBM Data Science Certificate Program to deepen my knowledge and skills in predictive modeling of financial data.
+  With proficiency in Python, SQL, R, TensorFlow, and more, I have explored data science through personal projects and am currently completing a Data Engineering Bootcamp to further enhance my knowledge of building and maintaing ETL data pipelines.
   <br><br>
 
   </p>
